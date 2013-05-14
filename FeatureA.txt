@@ -1,0 +1,1 @@
+This is feature A.  It will also have a reference in Main Feature.
