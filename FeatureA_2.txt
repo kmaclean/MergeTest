@@ -1,0 +1,1 @@
+This is Feature A2.  It was added chronologically after Feature B (which is unknown to FeatureA branch)
